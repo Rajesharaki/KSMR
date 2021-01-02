@@ -1,0 +1,2 @@
+﻿"Hello Madan", "How are you","What is the Current Time","Open Youtube","Open Chrome",
+"Thank You","close","fine","i am fine","Youtube","What is the current Date"

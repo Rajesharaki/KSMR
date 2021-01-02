@@ -1,0 +1,9 @@
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\bin\Release\VoiceAssistance.exe.config
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\bin\Release\VoiceAssistance.exe
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\bin\Release\VoiceAssistance.pdb
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.VoiceForm.resources
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.Properties.Resources.resources
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.csproj.GenerateResource.cache
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.csproj.CoreCompileInputs.cache
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.exe
+C:\Users\rajes\OneDrive\Desktop\Voice Assistance\VoiceAssistance\VoiceAssistance\obj\Release\VoiceAssistance.pdb
